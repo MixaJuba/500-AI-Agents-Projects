@@ -18,6 +18,7 @@ A curated collection of AI agent use cases across industries, showcasing practic
   - [AutoGen UseCase](#framework-name-autogen)
   - [Agno UseCase](#framework-name-agno)
   - [Langgraph UseCase](#framework-name-langgraph)
+- [🚗 Special Guide: Automotive Diagnostic Software Development](#-special-guide-automotive-diagnostic-software-development)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -66,6 +67,7 @@ Whether you're a developer, researcher, or business enthusiast, this repository 
 | **Vibe Hacking Agent**                | Cybersecurity    | Autonomous Multi-Agent Based Red Team Testing Service.   | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/PurpleAILAB/Decepticon) |
 | **MediSuite-Ai-Agent**  | Health insurance  | A medical ai agent that helps automating the process of hospitals / insurance claiming workflow. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/MahmoudRabea13/MediSuite-Ai-Agent)                                         | 
 | **Lina-Egyptian-Medical-Chatbot**  | Health insurance  | A medical ai agent that helps automating the process of hospitals / insurance claiming workflow. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/MahmoudRabea13/MediSuite-Ai-Agent)                                         |
+| **🚗 AutoDiagPro Development Guide** | Automotive | Comprehensive guide for building professional automotive diagnostic software using AI agents - from OBD-II protocols to production deployment. | [![Documentation](https://img.shields.io/badge/Read-Full%20Guide-blue)](AUTOMOTIVE_DIAGNOSTIC_SOFTWARE_GUIDE.md) |
 
 ## Framework wise Usecases
 
@@ -297,6 +299,48 @@ Whether you're a developer, researcher, or business enthusiast, this repository 
 
 
 
+
+---
+
+## 🚗 Special Guide: Automotive Diagnostic Software Development
+
+We've created a **comprehensive, detailed guide** for developing professional automotive diagnostic software using AI agents! This guide is perfect for anyone who wants to build a professional-grade, multi-brand auto scanner similar to Launch X431 PRO/PRO5.
+
+### 📖 [Complete Automotive Diagnostic Software Development Guide](AUTOMOTIVE_DIAGNOSTIC_SOFTWARE_GUIDE.md)
+
+**What's Inside:**
+- 🏗️ **Complete System Architecture** - Three-tier architecture with detailed component breakdown
+- 📝 **Step-by-Step Development Plan** - 4 phases from prototype to production (12 months roadmap)
+- 🤖 **AI Agent Integration Strategy** - How to use GPT-4, Claude, Copilot, and specialized agents
+- 🔧 **Hardware Integration** - Custom ESP32-based adapter design + ready-made options
+- 🧪 **Testing & Quality Control** - Comprehensive testing strategy with 85%+ coverage targets
+- 🔄 **Update System Implementation** - Complete update infrastructure with cloud backend
+- 💼 **Business Model & Monetization** - Freemium model, pricing strategy, market analysis
+- 📚 **Resources & Templates** - AI prompts, code templates, and best practices
+
+**Key Features of the Guide:**
+- ✅ Bilingual (Ukrainian/English) for maximum accessibility
+- ✅ 300+ pages of detailed technical documentation
+- ✅ Ready-to-use AI agent prompts and templates
+- ✅ Complete code examples in Kotlin, Python, C++
+- ✅ Hardware schematics and firmware
+- ✅ Business strategy and revenue projections
+- ✅ Real-world testing procedures
+
+**Perfect For:**
+- 🚀 Entrepreneurs building automotive tech products
+- 💻 Developers new to automotive software
+- 🔧 Mechanics wanting to create their own diagnostic tools
+- 🎓 Students learning embedded systems and mobile development
+- 🤖 AI enthusiasts exploring practical AI agent applications
+
+**Use Case:** Professional Automotive Diagnostic Software Development
+**Industry:** Automotive / Software Development
+**Complexity:** Advanced
+**Timeline:** 12 months to production-ready product
+**AI Frameworks Used:** GPT-4, Claude-3, GitHub Copilot, Specialized Automotive Agents
+
+[![Read Full Guide](https://img.shields.io/badge/Read-Full%20Guide-blue?style=for-the-badge)](AUTOMOTIVE_DIAGNOSTIC_SOFTWARE_GUIDE.md)
 
 ---
 
