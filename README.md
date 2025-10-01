@@ -318,6 +318,16 @@ We've created a **comprehensive, detailed guide** for developing professional au
 - 💼 **Business Model & Monetization** - Freemium model, pricing strategy, market analysis
 - 📚 **Resources & Templates** - AI prompts, code templates, and best practices
 
+### 🤖 [AI Agent Prompts Library](AI_AGENT_PROMPTS_LIBRARY.md)
+
+A quick-reference collection of proven AI agent prompts for automotive software development:
+- 🏗️ **Architecture & Design Prompts** - System design, database schema
+- 💻 **Code Generation Prompts** - OBD-II, UI components, protocols
+- 🔌 **Protocol Implementation** - VAG, CAN Bus, KWP2000
+- 🧪 **Testing Prompts** - Unit tests, integration tests, QA plans
+- 📚 **Documentation Prompts** - API docs, user guides
+- 🐛 **Debugging & Optimization** - Performance analysis, bug fixing
+
 **Key Features of the Guide:**
 - ✅ Bilingual (Ukrainian/English) for maximum accessibility
 - ✅ 300+ pages of detailed technical documentation
