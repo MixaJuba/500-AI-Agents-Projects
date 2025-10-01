@@ -1,4 +1,4 @@
-Ось README для проекту **QuantumForce_Code** у стилі панк-апокаліпсис:
+ **QuantumForce_Code**
 
 ***
 
